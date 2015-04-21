@@ -1,0 +1,6 @@
+production:
+  access_key_id: YOUR_ACCESS_KEY_ID
+  secret_access_key: YOUR_SECRET_ACCESS_KEY
+  bucket: BUCKET_NAME
+  endpoint: endpoint.example.com
+  #signature_version: 2 # some storage backends are compatible only with signature version 2
